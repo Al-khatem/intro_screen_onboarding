@@ -149,10 +149,10 @@
       "name": "intro_screen_onboarding_flutter",
       "rootUri": "../",
       "packageUri": "lib/",
-      "languageVersion": "2.12"
+      "languageVersion": "3.1"
     }
   ],
-  "generated": "2024-10-22T11:53:31.711688Z",
+  "generated": "2024-10-22T11:56:20.144273Z",
   "generator": "pub",
   "generatorVersion": "3.5.3",
   "flutterRoot": "file:///Users/rightco/Development/flutter",
